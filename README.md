@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 # 💫 About Me:
 💻 Software Engineer at Expedia Group | 6+ years in backend development using Kotlin and Spring Boot. Skilled in building scalable microservices, optimizing APIs, and solving complex problems. Experienced with Java, Go, Python, Docker, and Kubernetes. MSc in Advanced Computer Science. Interested in contributing to Go and Kotlin projects.
 
@@ -29,6 +30,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpots&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pramodpots&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pramodpots&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
